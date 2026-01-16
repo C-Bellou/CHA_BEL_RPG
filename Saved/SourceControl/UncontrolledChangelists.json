@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/MonDossier/CHA_BEL_RPG/Content/Blueprint/Interractable/BP_NPC.uasset",
+				"D:/MonDossier/CHA_BEL_RPG/Content/Blueprint/BP_NPC.uasset",
+				"D:/MonDossier/CHA_BEL_RPG/Content/Blueprint/BP_ItemInGame.uasset",
+				"D:/MonDossier/CHA_BEL_RPG/Content/Blueprint/NewBlueprint.uasset",
+				"D:/MonDossier/CHA_BEL_RPG/Content/__ExternalActors__/TopDown/Lvl_TopDown/2/YI/PVLVHDI40REO46LQ1321H4.uasset",
+				"D:/MonDossier/CHA_BEL_RPG/Content/__ExternalActors__/TopDown/Lvl_TopDown/8/G5/BN3T6Q0C7FAFL0RLMAF4Y9.uasset",
 				"D:/CHA_BEL_RPG_3D/CHA_BEL_RPG/Content/Blueprint/BP_FL_Shortcut.uasset",
 				"D:/CHA_BEL_RPG_3D/CHA_BEL_RPG/Content/Blueprint/Interractable/BP_Interact.uasset",
 				"D:/CHA_BEL_RPG_3D/CHA_BEL_RPG/Content/__ExternalActors__/TopDown/Lvl_TopDown/C/EI/04IQSLQO9YXENM5W02UIZ9.uasset",
